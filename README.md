@@ -28,3 +28,11 @@ This script outputs the following for a specific Cloudhub environment.
   * *CLOUDHUB_ENVIRONMENT*: Cloudhub environment name e.g. DEV
   * *REGION*: Cloudhub region e.g. ap-southeast-2
 * Run the script: `npm start`
+
+### References
+* [Anypoint Platform APIs Exchange Assets](https://anypoint.mulesoft.com/exchange/portals/anypoint-platform/)
+* [Cloudhub API Specification](https://anypoint.mulesoft.com/exchange/portals/anypoint-platform/f1e97bc6-315a-4490-82a7-23abe036327a.anypoint-platform/cloudhub-api/minor/1.0/pages/home/)
+* [Anypoint MQ Admin API Specification](https://anypoint.mulesoft.com/exchange/portals/anypoint-platform/f1e97bc6-315a-4490-82a7-23abe036327a.anypoint-platform/anypoint-mq-admin/minor/1.0/pages/home/)
+* [API Manager API Specifications](https://anypoint.mulesoft.com/exchange/portals/anypoint-platform/f1e97bc6-315a-4490-82a7-23abe036327a.anypoint-platform/api-manager-api/)
+* https://medium.com/@saurabh.chaubey17/how-to-bring-the-magic-of-automation-to-mulesoft-anypoint-platform-601724e559ba
+
